@@ -16,6 +16,7 @@ Bu proje, finansal piyasalardaki hisse senedi fiyatlarını analiz etmek ve tahm
 ## Gereksinimler
 1. Python 3.8+
 2. yfinance
+3. yfinance
 3 matplotlib
 4 scikit-learn
 5 vectorbt
