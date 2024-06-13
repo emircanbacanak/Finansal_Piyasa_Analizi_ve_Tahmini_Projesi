@@ -19,3 +19,7 @@ Bu proje, finansal piyasalardaki hisse senedi fiyatlarını analiz etmek ve tahm
 3. matplotlib
 4. scikit-learn
 5. vectorbt
+
+## Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
